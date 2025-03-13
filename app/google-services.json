@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283902228240",
+    "project_id": "geotask-61a07",
+    "storage_bucket": "geotask-61a07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283902228240:android:84e25e1dfdb65d14e09795",
+        "android_client_info": {
+          "package_name": "com.example.geotask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPbCp4XfW000kIxdPVNQINwsriwzctas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
